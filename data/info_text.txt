@@ -11,4 +11,4 @@
 *json
 *datetime
 
-Репозиторій(вихідний код): 
+Репозиторій(вихідний код): https://github.com/Stanislav-developer/tg_bot_weather_viever/blob/main/data/info_text.txt
